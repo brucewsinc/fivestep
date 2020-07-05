@@ -34,7 +34,7 @@ Introduce a UBI based on the rent payments for the properties you've bought out.
 
 #### Why?
 
-With average rent payment currently being about a thousand dollars within the US, this means we can expect a UBI somewhere around $800. This will also generate somewhere in the range of 9.7 billion dollars every month for the US government, as there are currently 48.5 million known renters in the US right now. Given that this program will make social security, unemployment, etc, no longer required, this change will actually save the united states money, and get the country closer to spending less than it earns.
+With average rent payment currently being about a thousand dollars within the US, this means we can expect a UBI somewhere around $800. This will also generate somewhere in the range of 9.7 billion dollars every month for the US government, as there are currently 48.5 million known renters in the US right now. Given that this program will make social security, unemployment, etc, no longer required, this change will actually save the United States money, and get the country closer to spending less than it earns.
 
 ## Step 4 - Abolish Income Tax
 
