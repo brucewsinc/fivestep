@@ -112,7 +112,7 @@ the United States](http://www.stat.columbia.edu/~gelman/research/published/ssqfi
 
 **43 million plus people in the rental market right now:**
 
-- [2 | RENTER HOUSEHOLDS](https://www.jchs.harvard.edu/sites/default/files/02_harvard_jchs_americas_rental_housing_2017.pdf)
+- [2 &vert; RENTER HOUSEHOLDS](https://www.jchs.harvard.edu/sites/default/files/02_harvard_jchs_americas_rental_housing_2017.pdf)
 - [Quick Facts: Resident Demographics](https://www.nmhc.org/research-insight/quick-facts-figures/quick-facts-resident-demographics/)
 - [Number of renter occupied housing units in the United States from 1975 to 2019](https://www.statista.com/statistics/187577/housing-units-occupied-by-renter-in-the-us-since-1975/)
 
