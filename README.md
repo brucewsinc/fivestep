@@ -61,76 +61,78 @@ Let the free market take care of the rest. All people who are in need will be up
 
 **Mental health directly linked to poverty:**
 
-- https://www.psychiatrictimes.com/view/addressing-poverty-and-mental-illness
-- https://www.samhsa.gov/data/sites/default/files/report_2720/Spotlight-2720.html
-- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5880535/
+- [Addressing Poverty and Mental Illness](https://www.psychiatrictimes.com/view/addressing-poverty-and-mental-illness)
+- [SERIOUS MENTAL ILLNESS AMONG ADULTS BELOW THE POVERTY LINE](https://www.samhsa.gov/data/sites/default/files/report_2720/Spotlight-2720.html)
+- [The intersection of extreme poverty and familial mental health in the United States](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5880535/)
 
 **Poorer people don't/can't vote:**
 
-- https://econofact.org/voting-and-income
-- http://www.stat.columbia.edu/~gelman/research/published/ssqfinal.pdf
-- https://www.pewresearch.org/politics/2018/08/09/an-examination-of-the-2016-electorate-based-on-validated-voters/
-- https://electionlab.mit.edu/research/voter-turnout
+- [Voting and Income](https://econofact.org/voting-and-income)
+- [Income Inequality and Partisan Voting in
+the United States](http://www.stat.columbia.edu/~gelman/research/published/ssqfinal.pdf)
+- [An examination of the 2016 electorate, based on validated voters](https://www.pewresearch.org/politics/2018/08/09/an-examination-of-the-2016-electorate-based-on-validated-voters/)
+- [Voter Turnout](https://electionlab.mit.edu/research/voter-turnout)
 
 **The Federal Reserve is not government owned**
 
-- https://www.federalreserve.gov/faqs/about_14986.htm
-- https://www.stlouisfed.org/in-plain-english/who-owns-the-federal-reserve-banks
-- https://www.mercatus.org/publications/government-spending/where-does-government-get-money-it-spends
-- https://datalab.usaspending.gov/americas-finance-guide/
+- [Who owns the Federal Reserve?](https://www.federalreserve.gov/faqs/about_14986.htm)
+- [Making Sense of the Federal Reserve](https://www.stlouisfed.org/in-plain-english/who-owns-the-federal-reserve-banks)
+- [Where does the government get the money it spends?](https://www.mercatus.org/publications/government-spending/where-does-government-get-money-it-spends)
+- [How much money did the federal government collect and spend in 2019?](https://datalab.usaspending.gov/americas-finance-guide/)
 
 **Card Issuers that make Crypto -> USD possible already:**
 
-- https://stripe.com/issuing
-- https://www.adyen.com/issuing
-- https://www.marqeta.com/
+- [Stripe Issuing](https://stripe.com/issuing)
+- [Ayden Issuing](https://www.adyen.com/issuing)
+- [Marqeta](https://www.marqeta.com/)
 
 **FIAT Money is Debt**
 
-- https://en.wikipedia.org/wiki/Credit_theory_of_money
-- https://positivemoney.org/issues/debt/
-- https://mises.org/library/our-money-based-debt
+- [Credit theory of money](https://en.wikipedia.org/wiki/Credit_theory_of_money)
+- [DEBT](https://positivemoney.org/issues/debt/)
+- [Is Our Money Based on Debt?](https://mises.org/library/our-money-based-debt)
 
 **Cryptocurrency is debt free:**
 
-- https://www.forbes.com/sites/davidmarotta/2018/09/27/the-tax-treatment-of-bitcoin-and-other-cryptocurrencies/
-- https://cryptotrader.tax/blog/when-do-you-owe-taxes-on-your-bitcoin-and-cryptocurrency
+- [Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf)
+- [Cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency)
+- [How Does Bitcoin Mining Work?](https://www.investopedia.com/tech/how-does-bitcoin-mining-work/)
 
 **Cryptocurrency has a standard inflation rate:**
 
-- https://news.bitcoin.com/bitcoin-halving-inflation-rate-central-banks/
-- https://www.forbes.com/sites/rogerhuang/2020/05/18/bitcoin-vs-inflation/#40e674111c07
-- https://www.viewbase.com/inflation
+- [Bitcoin Halving Will Drop Inflation Rate Lower Than Central Banks' 2% Target Reference](https://news.bitcoin.com/bitcoin-halving-inflation-rate-central-banks/)
+- [Bitcoin vs. Inflation](https://www.forbes.com/sites/rogerhuang/2020/05/18/bitcoin-vs-inflation/#40e674111c07)
+- [Live Inflation Rates](https://www.viewbase.com/inflation)
 
 **6-31 homes for every homeless person**
 
-- https://checkyourfact.com/2019/12/24/fact-check-633000-homeless-million-vacant-homes/
-- https://skeptics.stackexchange.com/a/22336
-- https://www.mintpressnews.com/empty-homes-outnumber-the-homeless-6-to-1-so-why-not-give-them-homes/207194/
+- [ACT CHECK: ARE THERE MORE THAN 633,000 HOMELESS PEOPLE AND 13.9 MILLION VACANT HOMES IN THE US?](https://checkyourfact.com/2019/12/24/fact-check-633000-homeless-million-vacant-homes/)
+- [Are there 24 empty houses “available” per homeless person in the USA?](https://skeptics.stackexchange.com/a/22336)
+- [Empty Homes Outnumber The Homeless 6 To 1, So Why Not Give Them Homes?](https://www.mintpressnews.com/empty-homes-outnumber-the-homeless-6-to-1-so-why-not-give-them-homes/207194/)
 
 **43 million plus people in the rental market right now:**
 
-- https://www.jchs.harvard.edu/sites/default/files/02_harvard_jchs_americas_rental_housing_2017.pdf
-- https://www.nmhc.org/research-insight/quick-facts-figures/quick-facts-resident-demographics/
-- https://www.statista.com/statistics/187577/housing-units-occupied-by-renter-in-the-us-since-1975/
+- [2 | RENTER HOUSEHOLDS](https://www.jchs.harvard.edu/sites/default/files/02_harvard_jchs_americas_rental_housing_2017.pdf)
+- [Quick Facts: Resident Demographics](https://www.nmhc.org/research-insight/quick-facts-figures/quick-facts-resident-demographics/)
+- [Number of renter occupied housing units in the United States from 1975 to 2019](https://www.statista.com/statistics/187577/housing-units-occupied-by-renter-in-the-us-since-1975/)
 
 **Social security and other similar services cost 2/3 of the annual US budget:**
 
-- https://www.pewresearch.org/fact-tank/2017/04/04/what-does-the-federal-government-spend-your-tax-dollars-on-social-insurance-programs-mostly/
-- https://www.cbpp.org/research/federal-budget/policy-basics-where-do-our-federal-tax-dollars-go
-- https://www.budget.senate.gov/imo/media/doc/CRS%20Report%20-%20Welfare%20Spending%20The%20Largest%20Item%20In%20The%20Federal%20Budget.pdf
+- [What does the federal government spend your tax dollars on? Social insurance programs, mostly](https://www.pewresearch.org/fact-tank/2017/04/04/what-does-the-federal-government-spend-your-tax-dollars-on-social-insurance-programs-mostly/)
+- [Policy Basics: Where Do Our Federal Tax Dollars Go?](https://www.cbpp.org/research/federal-budget/policy-basics-where-do-our-federal-tax-dollars-go)
+- [CRS Report: Welfare Spending The Largest Item In The Federal Budget](https://www.budget.senate.gov/imo/media/doc/CRS%20Report%20-%20Welfare%20Spending%20The%20Largest%20Item%20In%20The%20Federal%20Budget.pdf)
 
 **Average rent payment is $1000:**
 
-- https://www.abodo.com/blog/2019-annual-rent-report/
-- https://smartasset.com/mortgage/the-average-rent-what-you-should-know
-- https://www.businessinsider.com/what-the-average-american-family-spends-on-rent-in-us-2019-6
+- [America’s 2019 Rental Market in Review: Did Renters Pay More?](https://www.abodo.com/blog/2019-annual-rent-report/)
+- [The Average Rent: What You Should Know](https://smartasset.com/mortgage/the-average-rent-what-you-should-know)
+- [Here's what the average American family of four spends on rent in every state](https://www.businessinsider.com/what-the-average-american-family-spends-on-rent-in-us-2019-6)
 
 **Police target poor areas and poor people:**
 
-- https://pubmed.ncbi.nlm.nih.gov/27198555/
-- https://www.prisonpolicy.org/reports/repeatarrests.html
-- https://www.bjs.gov/index.cfm?ty=pbdetail&iid=5137
+- [Income Inequality, Drug-Related Arrests, and the Health of People Who Inject Drugs: Reflections on Seventeen Years of Research](https://pubmed.ncbi.nlm.nih.gov/27198555/)
+- [Arrest, Release, Repeat: How police and jails are misused to respond to social problems](https://www.prisonpolicy.org/reports/repeatarrests.html)
+- [Household Poverty And Nonfatal Violent Victimization, 2008-2012](https://www.bjs.gov/index.cfm?ty=pbdetail&iid=5137)
 
 
 -------
