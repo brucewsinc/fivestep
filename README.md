@@ -6,7 +6,7 @@ This document aims to provide a simple, provable, low-risk endeavor to directly 
 - Homelessness
 - Debt
 - Mental Illness (directly linked to poverty)
-- Lack of democractic representation
+- Lack of democratic representation
 
 These steps are designed to be completable by a federal government agency within the span of a few weeks, and do not add or remove wealth from any individual or business other than The Federal Reserve banking group. The Federal Reserve is not a government entity, and yet controls all of the money in the country. This makes no sense, and is the root of many of the issues in the country.
 
