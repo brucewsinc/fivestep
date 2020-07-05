@@ -26,7 +26,7 @@ Provide optional buyouts for all individuals or businesses who currently own a h
 
 #### Why?
 
-This serves two purposes. By conducting buyouts with options for transparent pricing for rent, many people who would otherwise be unable to buy or purchase a home will now have the capacity to take a step up. There are 6 homes for every homeless person in the USA, so this will be a direct step towards ending homelessness... Now for poverty...
+This serves two purposes. By conducting buyouts with options for transparent pricing for rent, many people who would otherwise be unable to buy or rent a home will now have the capacity to take a step up. There are 6 homes for every homeless person in the USA, so this will be a direct step towards ending homelessness... Now for poverty...
 
 ## Step 3 - Introduce a transparent UBI
 
